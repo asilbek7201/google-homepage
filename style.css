@@ -1,0 +1,52 @@
+nav {
+    text-align: right;
+    
+}
+i {
+    margin: right;
+}
+ a {
+    margin:right;
+}
+* {
+    border: 1px solid blue;
+}
+main {
+    
+text-align: center;
+} 
+a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+div  {
+    text-align: center;
+}
+i:hover{
+    margin-right: 20px;
+    background-color: gray;
+}
+a:hover {
+    text-decoration: underline;
+}
+button {
+    margin-top: 15px;
+    margin-right: 5px;
+    
+}
+input {
+    
+    border-radius: 12px;
+}
+input:hover {
+    
+    border: 1px solid gray;
+}
+}
+.isaxon {
+    background-color: gray;
+    height: 44px;
+    border: 1px solid red;
+
+}
