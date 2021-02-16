@@ -7,10 +7,9 @@ nav {
     border: 1px solid blue;
 } */
 main {
-
-    
-text-align: center;
+       text-align: center;
 } 
+
 a {
     margin-right: 20px;
     text-decoration: none;
@@ -22,12 +21,13 @@ i{
     margin-right: 20px;
     
 }
+
 a:hover {
     text-decoration: underline;
 }
 p {
-    background-color:lavender;
-    color:gray;
+    color: gray;
+    background-color: lavender;
 }
 
 div {
@@ -68,3 +68,17 @@ button:hover {
     
 }
 
+
+/* .gray {
+    color: gray;
+    background-color:lavender ;
+} */
+.div {
+    display: inline;
+
+}
+
+footer {
+    background-color:#f2f2f2 ;
+    margin-top: 15px;
+}
